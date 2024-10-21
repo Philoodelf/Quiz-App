@@ -1,0 +1,8 @@
+{
+  "quizApp": "English",
+  "@quizApp": {
+    "description" : "The current Language"
+  }
+
+
+}
